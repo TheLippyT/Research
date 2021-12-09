@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "946f111201168d15",
+        "id": "ed21f9e3dffeb255",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java/Java Spring/Introduction.md",
-            "mode": "source"
+            "file": "RXJs/Notes/Introduction.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Spring/Introduction.md",
+                "file": "RXJs/Notes/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "946f111201168d15",
+  "active": "ed21f9e3dffeb255",
   "lastOpenFiles": [
-    "Java/Java Spring/Introduction.md",
-    "Java/Java JDK/Introduction.md",
-    "Java/Introduction.md",
-    "SQL/MS SQL/Introduction.md",
-    "Syncfusion/Introduction.md",
-    "RXJs/Introduction.md",
-    "SQL/Introduction.md",
-    "Mockito/Introduction.md",
-    "Angular/Introduction.md",
-    "Gherkin/Introduction.md"
+    "RXJs/Notes/Introduction.md",
+    "RXJs/Notes/Installation.md",
+    "filter.md",
+    "RXJs/1. Overview.md",
+    "RXJs/Wiki Articles/Observer Pattern.md",
+    "RXJs/Wiki Articles/Iterator Pattern.md",
+    "RXJs/Wiki Articles/Functional Programming with Collections.md",
+    "RXJs/Notes/Subscription.md",
+    "RXJs/Notes/Subjects.md",
+    "RXJs/Notes/Scheduler.md"
   ]
 }
