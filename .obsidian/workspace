@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plan.md",
-            "mode": "source"
+            "file": "Java/Java fundamentals/7. Java I_O + NIO.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan.md",
+                "file": "Java/Java fundamentals/7. Java I_O + NIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "a23c733af4555d82",
   "lastOpenFiles": [
-    "Plan.md",
-    "0. General knowledge/General knowledge overview.md",
+    "Java/Java fundamentals/7. Java I_O + NIO.md",
+    "Java/Java fundamentals/1. Working With Java Data Types.md",
+    "Gherkin/Introduction.md",
+    "Git/Git overview.md",
     "Git/Notes/Git introduction.md",
     "Git/Notes/Cheatsheet.md",
-    "Git/Git overview.md",
-    "0. Schedule/Daily Schedule.md",
-    "Bootstrap/Bootstrap overview.md",
-    "Bootstrap/Notes/Introduction.md",
-    "Bootstrap/Notes/Installation.md",
-    "Angular/Introduction.md"
+    "Plan.md",
+    "README.md",
+    "0. General knowledge/General knowledge overview.md",
+    "0. Schedule/Daily Schedule.md"
   ]
 }
