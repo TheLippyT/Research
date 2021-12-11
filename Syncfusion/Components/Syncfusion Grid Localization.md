@@ -1,12 +1,3 @@
-Syncfusion Grid Localization
-
-Issues:
-
-- [x] too much locale boilerplate code find a way to make it more efficient
-
-Changes:
-
-added locale for the ej2 components
 
 - ```Angular
       setCulture('nl-NL');

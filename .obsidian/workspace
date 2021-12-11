@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ed21f9e3dffeb255",
+        "id": "a23c733af4555d82",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RXJs/Notes/Introduction.md",
-            "mode": "preview"
+            "file": "Plan.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RXJs/Notes/Introduction.md",
+                "file": "Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,25 +78,34 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "8e6a0502e7f45a04",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "ed21f9e3dffeb255",
+  "active": "a23c733af4555d82",
   "lastOpenFiles": [
-    "RXJs/Notes/Introduction.md",
-    "RXJs/Notes/Installation.md",
-    "filter.md",
-    "RXJs/1. Overview.md",
-    "RXJs/Wiki Articles/Observer Pattern.md",
-    "RXJs/Wiki Articles/Iterator Pattern.md",
-    "RXJs/Wiki Articles/Functional Programming with Collections.md",
-    "RXJs/Notes/Subscription.md",
-    "RXJs/Notes/Subjects.md",
-    "RXJs/Notes/Scheduler.md"
+    "Plan.md",
+    "0. General knowledge/General knowledge overview.md",
+    "Git/Notes/Git introduction.md",
+    "Git/Notes/Cheatsheet.md",
+    "Git/Git overview.md",
+    "0. Schedule/Daily Schedule.md",
+    "Bootstrap/Bootstrap overview.md",
+    "Bootstrap/Notes/Introduction.md",
+    "Bootstrap/Notes/Installation.md",
+    "Angular/Introduction.md"
   ]
 }

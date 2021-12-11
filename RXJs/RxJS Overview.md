@@ -1,8 +1,8 @@
 # Overview
 
 ## Start
-- [[Introduction]]
--  [[Installation]]
+- [[RXJs/Notes/Introduction]]
+-  [[RXJs/Notes/Installation]]
 
 
 ## Concepts
