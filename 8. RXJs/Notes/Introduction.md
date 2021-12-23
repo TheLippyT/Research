@@ -4,7 +4,7 @@ RxJS is a library for composing asynchronous and event-based programs by using o
 
 Think of RxJS as Lodash for events.
 
-ReactiveX combines the [[Observer pattern]] with the [[Iterator pattern]] and [[functional programming with collections]] to fill the need for an ideal way of managing sequences of events.
+ReactiveX combines the [[Observer Pattern]] with the [[Iterator Pattern]] and [[Functional Programming with Collections]] to fill the need for an ideal way of managing sequences of events.
 
 The essential concepts in RxJS which solve async event management are:
 
