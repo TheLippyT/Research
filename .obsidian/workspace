@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a23c733af4555d82",
+        "id": "bb12c25696e3092b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Books/Introduction to algorithms/1. The role of algorithms in computing.md",
+            "file": "11. General knowledge/Notes/Algorithms.md",
             "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "3766565252b6d8b4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1. Books/Introduction to algorithms/1. The role of algorithms in computing.md",
-            "mode": "source"
           }
         }
       }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Books/Introduction to algorithms/1. The role of algorithms in computing.md",
+                "file": "11. General knowledge/Notes/Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3766565252b6d8b4",
+  "active": "bb12c25696e3092b",
   "lastOpenFiles": [
-    "1. Books/Introduction to algorithms/1. The role of algorithms in computing.md",
-    "1. Books/Book overview.md",
-    "0. Main hub/Main overview.md",
-    "4. Gherkin/Gherkin overview.md",
-    "7. Mockito/Mockito overview.md",
-    "2. Angular/Angular overview.md",
-    "2. Angular/notes/Introduction.md",
-    "Plan.md",
-    "README.md",
-    "Note to self.md"
+    "11. General knowledge/Notes/Algorithms.md",
+    "x. resources/pictures/common big o complexity chart.png",
+    "x. resources/pictures/common data structure operations.png",
+    "x. resources/pictures/array sorting algorithms.png",
+    "1. Books/Data structures and algorithms in java/Chapters/1. Overview.md",
+    "6. Java/Java fundamentals/1. Working With Java Data Types.md",
+    "6. Java/Java OCP SE 11 Study Guide/Ch. 1 - Welcome to Java.md",
+    "8. RXJs/Notes/Installation.md",
+    "Pasted image 20211227211359.png",
+    "1. Books/Data structures and algorithms in java/Data structures and algorithms in java overview.md"
   ]
 }

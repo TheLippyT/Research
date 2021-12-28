@@ -1,7 +1,7 @@
 # Main overview
 
 ### Books
-- [[Book overview]]
+- [[Books overview]]
 
 ### Angular
 - [[Angular overview]]
