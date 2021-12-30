@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "11. General knowledge/Notes/Algorithms.md",
-            "mode": "preview"
+            "file": "11. General knowledge/Notes/Cryptography.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11. General knowledge/Notes/Algorithms.md",
+                "file": "11. General knowledge/Notes/Cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "bb12c25696e3092b",
   "lastOpenFiles": [
+    "11. General knowledge/Notes/Cryptography.md",
     "11. General knowledge/Notes/Algorithms.md",
+    "README.md",
     "x. resources/pictures/common big o complexity chart.png",
     "x. resources/pictures/common data structure operations.png",
     "x. resources/pictures/array sorting algorithms.png",
     "1. Books/Data structures and algorithms in java/Chapters/1. Overview.md",
     "6. Java/Java fundamentals/1. Working With Java Data Types.md",
     "6. Java/Java OCP SE 11 Study Guide/Ch. 1 - Welcome to Java.md",
-    "8. RXJs/Notes/Installation.md",
-    "Pasted image 20211227211359.png",
-    "1. Books/Data structures and algorithms in java/Data structures and algorithms in java overview.md"
+    "8. RXJs/Notes/Installation.md"
   ]
 }
